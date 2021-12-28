@@ -1,4 +1,4 @@
-# cliapp-bin
+# Restack CLI app
 
 Installations instructions:
 
